@@ -1,0 +1,23 @@
+body{
+    background-color: darkgrey;
+}
+.container{
+    width: 1000px;
+    min-width: 1000px;
+    border: 10px solid whitesmoke;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+h1{
+    /* width: 200px; */
+    border: 5px solid black;
+    margin-top: 10px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+}
+p{
+    background-color: rgb(128, 124, 124);
+    font-size: 24px;
+    
+}
